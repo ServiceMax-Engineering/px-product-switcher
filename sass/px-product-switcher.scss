@@ -50,4 +50,9 @@
   outline:none;
 }
 
+.trigger:focus,
+.trigger:hover {
+  color: var(--px-btn-bare-color--hover, #007acc);
+}
+
 // Trumps

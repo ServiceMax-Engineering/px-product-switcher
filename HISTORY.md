@@ -1,3 +1,6 @@
+v1.0.11
+* add trigger icon focus color
+==================
 v1.0.10
 ==================
 * Fix demo for IE
